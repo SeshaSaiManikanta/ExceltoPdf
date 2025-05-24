@@ -17,8 +17,6 @@ public class ExcelToPDFConverter {
 
     public static void main(String[] args) {
         System.out.println("Excel to PDF conversion starting...");
-        System.out.println("Git Testing");
-
         String inputDir = "S:\\Softwares\\input_excel";
         String outputDir = "S:\\Softwares\\output_pdf";
 
